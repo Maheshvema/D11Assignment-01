@@ -1,0 +1,7 @@
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\bin\Debug\QuickSortAssignment.exe.config
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\bin\Debug\QuickSortAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\bin\Debug\QuickSortAssignment.pdb
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\obj\Debug\QuickSortAssignment.csproj.AssemblyReference.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\obj\Debug\QuickSortAssignment.csproj.CoreCompileInputs.cache
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\obj\Debug\QuickSortAssignment.exe
+C:\Users\Sai Yaswanth\OneDrive\Desktop\simplilearn\Day-11 Assignment\QuickSortAssignment\QuickSortAssignment\obj\Debug\QuickSortAssignment.pdb
